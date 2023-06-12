@@ -4,3 +4,4 @@ This repository is for practicing formatting and editing semantics within an exs
 https://github.com/gbivens9966/semantic-html
 https://gbivens9966.github.io/semantic-html/
 ![image](https://github.com/gbivens9966/semantic-html/assets/134802763/7aa7c66f-7fdb-45c1-84cc-93f22db33453)
+![image](https://github.com/gbivens9966/semantic-html/assets/134802763/52c05a17-7f76-4ccf-b1d0-1021fdacaf5b)
